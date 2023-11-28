@@ -89,4 +89,49 @@ body {
 .bu {
     text-align: center;
     margin-top: 38px;
+    margin-bottom: 150px;
+}
+
+.po {
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+.expix {
+    width: 30%;
+    height: 100%;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 20px;
+    border-radius: 10px;
+    color: black;
+    font-size: 20px;
+}
+
+#food {
+    background-color: lightgrey;
+}
+
+#shelter {
+    background-color: lightpink;
+}
+
+#edu {
+    background-color: lightgreen;
+}
+
+.expix img {
+    margin: 40px 20px 0px 0px;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 15px;
+}
+
+.oren {
+    color: crimson;
 }
