@@ -38,10 +38,55 @@ body {
 
 .button {
     text-decoration: none;
-    background-image: linear-gradient(orange, red);
+    background-image: linear-gradient(tomato, red);
     color: white;
     font-weight: 700;
     padding: 10px 40px;
-    border-radius: 50px;
+    border-radius: 10px;
     text-align: center;
+}
+
+.hh {
+    text-align: center;
+    margin-top: 5px;
+    color: gray;
+}
+
+.expi {
+    width: 14%;
+    height: 100px;
+    padding-left: 20px;
+    border-radius: 10px;
+    margin-left: 10px;
+    font-weight: 700;
+    color: black;
+    font-size: 20px;
+    box-shadow: 10px 10px 100px gray;
+}
+
+.size {
+    margin-left: 15%;
+    margin-top: 30px;
+    display: flex;
+}
+
+
+#dif {
+    border: 4px solid tomato;
+    background-color: 20px tomato;
+}
+
+.text-box input {
+    width: 50%;
+    text-align: center;
+    padding: 5px;
+    border: 0px;
+    margin: 30px 320px 0px;
+    height: 20px;
+    font-size: 20px;
+}
+
+.bu {
+    text-align: center;
+    margin-top: 38px;
 }
