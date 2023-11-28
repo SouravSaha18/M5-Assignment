@@ -2,3 +2,46 @@ body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
+
+.help {
+    background-image: url(images/download.png);
+    height: 600px;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.hp h1 {
+    font-size: 60px;
+    text-align: center;
+    color: white;
+    margin: 150px 250px 20px;
+    font-weight: 900;
+}
+
+.flexi {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.hp p {
+    text-align: center;
+    color: black;
+    margin: 10px 350px 20px;
+    margin-bottom: 20px;
+}
+
+.hp {
+    text-align: center;
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 50px;
+    text-align: center;
+}
