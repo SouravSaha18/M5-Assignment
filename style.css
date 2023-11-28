@@ -135,3 +135,76 @@ footer {
 .oren {
     color: crimson;
 }
+
+.half {
+    width: 50%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.half h1 {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.half p {
+    color: gray;
+    font-weight: 400;
+    font-size: 17px;
+}
+
+.half img {
+    width: 120%;
+    margin-top: 50px;
+    border-radius: 10px;
+    margin-bottom: 14px;
+}
+
+.hh {
+    margin-bottom: 20px;
+    text-align: center();
+
+}
+
+.flexi2 {
+    display: flex;
+    margin-bottom: 150px;
+    background-color: antiquewhite;
+    margin: 5% 15% 10% 15%;
+    height: 200px;
+    text-align: center;
+}
+
+#sms {
+    text-align: center;
+    margin-right: 0%;
+    margin-left: 28%;
+    margin-top: 8.2%;
+    border-style: hidden;
+}
+
+#twitter {
+    text-align: center;
+    margin-right: 36%;
+    margin-left: 0%;
+    margin-top: 9%;
+    border-style: hidden;
+}
+
+.button2 {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, black);
+    color: white;
+    font-weight: 700;
+    padding: 10px 30px;
+    border-radius: 4px;
+    text-align: center;
+    height: 40ox;
+}
+
+input {
+    height: 40px;
+    background-color: thistle
+}
